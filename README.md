@@ -6,9 +6,6 @@
 - run the server: `python3 server.py`
 - on the browser: `localhost:5000`
 
-
-This project is developed by a 6 member team as part of course CSE 578 Data Visualization.
-
 **Frontend**-has the code for the front end of the application - JS, HTML, CSS
 
 **Backend**-has the code for the back end of the application - Python, Flask
@@ -17,7 +14,7 @@ This project is developed by a 6 member team as part of course CSE 578 Data Visu
 
 Clone the repository using the command 
 ```bash
-git clone https://github.com/asu-cse578-f2020/VAST-2019-MC1-Sravani.git
+git clone https://github.com/tanujsingh/Data-Visualisation-Project-CSE-578.git
 ```
 Now change the path to the cloned folder using the command 
 ```bash
@@ -41,7 +38,7 @@ ii) Now start the python local server using the command
 ```bash
 python3 -m http.server (or) py -3 -m http.server (or) python -m http.server 
 ```
- depending on your configuration. 
+Depending on your configuration. 
 
 iii) Now, we should see a message **"Serving HTTP on :: port 8000 (http://[::]:8000/) ..."** which indicates the successful start of the python server. Keep this terminal running and proceed with the next steps.
 
@@ -60,8 +57,7 @@ ii) Now start the flask server using the following command:
 flask run (or) py -3 -m flask run
 ```
 
-
- depending on your configuration 
+Depending on your configuration 
 
 iii) Now, we should see a message ***"Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)"*** which indicates the successful start of the flask server. Keep this terminal running and proceed with the next steps.
 
