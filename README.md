@@ -21,7 +21,7 @@ git clone https://github.com/asu-cse578-f2020/VAST-2019-MC1-Sravani.git
 ```
 Now change the path to the cloned folder using the command 
 ```bash
-cd VAST-2019-MC1-Sravani
+cd Data-Visualisation-Project-CSE-578
 ```
 This project was developed using [Python 3.8.1](https://www.python.org/downloads/release/python-381/) please Install python 3.8.1. Please install all the [python packages](https://packaging.python.org/tutorials/installing-packages/) with their respective versions as specified in the **requirements.txt** file in the root folder  depending on your configuration
 ```bash
@@ -33,7 +33,7 @@ Both the front end and back end are to be run simultaneously for the application
 
 For starting **Frontend**: 
 
-i) Open one terminal in the root project directory ***VAST-2019-MC1-Sravani*** and change directory to the Frontend from the root directory i.e., VAST-2019-MC1-Sravani using the following command:
+i) Open one terminal in the root project directory ***Data-Visualisation-Project-CSE-578*** and change directory to the Frontend from the root directory i.e., Data-Visualisation-Project-CSE-578 using the following command:
 ```bash
 cd Frontend
 ```
@@ -48,7 +48,7 @@ iii) Now, we should see a message **"Serving HTTP on :: port 8000 (http://[::]:8
 
 For starting **Backend**:
 
-i) Open a terminal in the root project directory **VAST-2019-MC1-Sravani** and Change directory to the Backend from the root directory i.e., VAST-2019-MC1-Sravani using the following command: 
+i) Open a terminal in the root project directory **Data-Visualisation-Project-CSE-578** and Change directory to the Backend from the root directory i.e., Data-Visualisation-Project-CSE-578 using the following command: 
 
 ```bash
 cd Backend 
