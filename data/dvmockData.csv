@@ -1,0 +1,37 @@
+group,variable,value
+Shake Intensity,Sewer and Water,0.6
+Shake Intensity,Power,0.4
+Shake Intensity,Roads and Bridges,-0.2
+Shake Intensity,Medical,0.56
+Shake Intensity,Buildings,0.8
+Shake Intensity,Shake Intensity,1
+Sewer and Water,Shake Intensity,0.2
+Sewer and Water,Power,0.1
+Sewer and Water,Roads and Bridges,-0.6
+Sewer and Water,Medical,-0.9
+Sewer and Water,Buildings,-0.4
+Sewer and Water,Sewer and Water,1
+Power,Shake Intensity,0.6
+Power,Sewer and Water,0.4
+Power,Roads and Bridges,0.4
+Power,Medical,0.64
+Power,Buildings,0.35
+Power,Power,1
+Roads and Bridges,Shake Intensity,0.54
+Roads and Bridges,Sewer and Water,0.54
+Roads and Bridges,Power,0.889
+Roads and Bridges,Medical,0.4458
+Roads and Bridges,Buildings,0.19
+Roads and Bridges,Roads and Bridges,1
+Medical,Shake Intensity,0.124
+Medical,Sewer and Water,0.146
+Medical,Roads and Bridges,0.76
+Medical,Power,0.469
+Medical,Buildings,0.236
+Medical,Medical,1
+Buildings,Shake Intensity,0.56
+Buildings,Sewer and Water,0.448
+Buildings,Roads and Bridges,0.9
+Buildings,Power,0.69
+Buildings,Medical,0.632
+Buildings,Buildings,1
